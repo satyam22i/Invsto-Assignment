@@ -58,6 +58,6 @@ The project includes a toggle switch to switch between light and dark themes.
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ## Video Demonstration
-A short video showcasing the functionality of the webpage is included in the repository.
+[A short video showcasing the functionality of the webpage is included in the repository.](https://drive.google.com/file/d/1zsj0-c67V8gmcRMRgoRl1BJwxqRjsybF/view?usp=sharing)
 
 
